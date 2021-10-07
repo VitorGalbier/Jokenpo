@@ -1,0 +1,19 @@
+-> REDE
+
+tcp: carrega as informações entre IP, realiza handshake, espera a resposta da mensagem
+, confirma os dados de envio, SEDEX
+udp: não realiza handshake - correio
+protocolos do modelo OZI - regras para comunicação - 7 camadas, cada uma responsável por um tipo
+de comunicação - camada 3 de redes (aqui se fala em IP, roteadores, trabalha em pacotes)
+tcp dump - fica analisando o tráfego de redes, fica vendo os pacotes passando
+sudo - elevar o usuário
+
+
+-> SEGURANÇA
+
+triplice de CIA - availability, confiabilidade e integridade
+
+-> AUTOMAÇÃO
+
+automatizar rotinas
+powershell - multiplataforma
